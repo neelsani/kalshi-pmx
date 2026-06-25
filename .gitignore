@@ -1,0 +1,10 @@
+/target/
+/xtask/target/
+.env
+.env.*
+!.env.example
+.envrc
+*.pem
+*.key
+*.p8
+kalshi-private-key*
